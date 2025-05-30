@@ -1,23 +1,19 @@
-### 👋 Hi, I'm Aadya Sharma!
+## 👋 Hi, I'm Aadya Sharma!
 
 I'm a motivated Computer Science student at the University of Tennessee, Knoxville 🎓, passionate about leveraging technology to build innovative solutions. I have a strong foundation in software development, AI, UI/UX design, and data analysis, with hands-on experience in machine learning, full-stack development, and cybersecurity. I'm always eager to learn new things and collaborate on exciting projects! 🚀
 
-### 🔧 My Tech Stack & Skills
+## 🔧 My Tech Stack & Skills
 
 Here are some of the technologies and tools I work with:
 
-Languages: Python, C++, C, C#, Java, Javascript, React, Swift
+1. Languages: Python, C++, C, C#, Java, Javascript, React, Swift
 
-Frameworks & Libraries: 
-
-Tools & Platforms:
-
-Specializations:
+#### Specializations:
 💻 Software Development | 🤖 Artificial Intelligence | 🎨 UI/UX Design | 📊 Data Analysis & Visualization | 🖼️ Image Processing | 🛡️ Cybersecurity | ⚙️ Algorithm Problem-Solving | 🧠 Machine Learning
 
-### 🚀 Experience Highlights
+## 🚀 Experience Highlights
 
-## 🎓 Education & Certifications
+### 🎓 Education & Certifications
 
 1. B.S. Computer Science | University of Tennessee, Knoxville
 
