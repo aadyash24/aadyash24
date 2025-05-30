@@ -27,7 +27,7 @@ Here are some of the technologies and tools I work with:
 
 3. 🏅 Chancellor's Honors - University of Tennessee, Knoxville (Aug 2023)
 
-### 🌱 What I'm Currently Exploring
+## 🌱 What I'm Currently Exploring
 
 • Deepening my knowledge in cloud computing and serverless architectures on AWS.
 
@@ -35,11 +35,11 @@ Here are some of the technologies and tools I work with:
 
 • Contributing to open-source projects.
 
-### 📫 How to Reach Me
+## 📫 How to Reach Me
 
 [Email](asharm41@vols.utk.edu) | [LinkedIn](linkedin.com/in/aadyasharma24)
 
-### ✨ Fun Facts
+## ✨ Fun Facts
 
 1. 🐠 I'm an Open Water Scuba Diver (NAUI certified)!
 
