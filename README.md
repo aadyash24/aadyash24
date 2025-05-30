@@ -115,7 +115,7 @@ Here are some of the technologies and tools I work with:
 
 ## ✨ Fun Facts
 
-* 🐠 I'm an Open Water Scuba Diver (NAUI certified)! [cite: 18, 19]
-* 🇫🇷 I'm minoring in French & Francophone Studies. [cite: 18]
+* 🐠 I'm an Open Water Scuba Diver (NAUI certified)!
+* 🌎 I'm a polyglot!
 
 ---
